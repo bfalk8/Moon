@@ -1,16 +1,18 @@
 # Site
 title:              Brandon Falk
 bio:                'Computer Scientist in pursuit of excellence'
-description:        "Find out more about the video game nerd turned Software Developer..."
+description:        "Find out more about this video game nerd turned Software Developer..."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
+sidelogo:           'assets/img/bombay.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 resume:             '../assets/resume.pdf'
-url:                https://bfalk8.github.io
+# url:                https://bfalk8.github.io
 # url:                http://localhost:4000
+url:                http://www.brandonfalk.com
 
 # Jekyll
 permalink:          /:title/
