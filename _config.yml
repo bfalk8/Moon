@@ -9,8 +9,8 @@ background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 resume:             '../assets/resume.pdf'
-# url:                https://bfalk8.github.io
-url:                http://localhost:4000
+url:                https://bfalk8.github.io
+# url:                http://localhost:4000
 
 # Jekyll
 permalink:          /:title/

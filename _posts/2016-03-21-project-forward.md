@@ -3,6 +3,8 @@ layout: post
 title:  "CSE 135 Forward"
 date:   2017-01-18
 excerpt: "Realtime query tracking via socket.io"
+showgithub: true
+githuburl: 'bfalk8/forward135'
 project: true
 tag:
 comments: false
