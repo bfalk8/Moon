@@ -34,8 +34,8 @@ disqus_shortname:   brandonfalk
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
+# google:
+#   plus:            BrandonFalk8
   #analytics:
   #verify:
   #ad-client:
@@ -46,7 +46,7 @@ twitter:            brandonfalk
 facebook:           brandon.falk
 github-url:         bfalk8
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           bfalk8
 #xing:              username
 # instagram:          username
 #lastfm:            username
